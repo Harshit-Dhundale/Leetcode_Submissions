@@ -1,1 +1,1 @@
-# Leetcoder_Submissions
+# Leetcode_Submissions
